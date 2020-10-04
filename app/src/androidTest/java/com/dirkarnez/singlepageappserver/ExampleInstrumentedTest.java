@@ -1,4 +1,4 @@
-package com.dirkarnez.singlepageappservererver;
+package com.dirkarnez.singlepageappserver;
 
 import android.content.Context;
 
